@@ -1,0 +1,25 @@
+.user-card {
+  border: 2px solid red;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px 20px;
+  margin: 25px;
+  background-color: aquamarine;
+  width: 70%;
+}
+
+.email,
+.first-name,
+.last-name {
+  font-size: 20px;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Ver;
+}
+
+img {
+  border: 2px dotted blue;
+}

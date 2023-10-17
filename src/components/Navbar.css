@@ -1,0 +1,20 @@
+nav {
+  background-color: beige;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+.navbar-heading {
+  font: bold 50px Lucida Sans;
+  margin-bottom: 5px;
+}
+
+.get-users-button {
+  background-color: orange;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+}
